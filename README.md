@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Muhammad Zeeshan Hassan, 3rd-year Student at 📍 University of the Punjab, Lahore, Pakistan 🏫 pursuing Information Technology 🔌. I enjoy reading books 📚 and solving problems 📝 using Computer Logics💻.</h1>
+<h1 align="center">Hi 👋, I'm Muhammad Zeeshan Hassan</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thezeeshanhassan&label=Profile%20views&color=0e75b6&style=flat" alt="thezeeshanhassan" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thezeeshanhassan" alt="thezeeshanhassan" /></a> </p>
