@@ -11,13 +11,16 @@
  <a href="https://leetcode.com/thezeeshanhassan" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FE7A16?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode">
   </a>
+  <a href="https://www.hackerrank.com/profile/thezeeshanhassan" target="_blank">
+  <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank">
+</a>
 </div>
 
 ---
 
 ### Welcome to my GitHub Page! 👋
 
-I am **Muhammad Zeeshan Hassa**, a Computer Science student and developer passionate about programming and teaching. I have been programming for [your experience years] and worked with many technologies and tools.
+I am **Muhammad Zeeshan Hassan**, a Computer Science student and developer passionate about programming and teaching. I have been programming for [your experience years] and worked with many technologies and tools.
 
 I also share programming tips and knowledge on [Instagram](https://instagram.com/thezeeshanhassan_) and other platforms.
 
