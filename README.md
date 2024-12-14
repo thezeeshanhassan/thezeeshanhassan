@@ -1,5 +1,33 @@
-<h1 align="center">Hi 👋, I'm Muhammad Zeeshan Hassan</h1>
-<h3 align="center">A 3rd-year Student at 📍 University of the Punjab, Lahore, Pakistan 🏫 pursuing Information Technology 🔌. I enjoy reading books 📚 and solving problems 📝 using Computer Logics💻.</h3>
+<div align="center">
+  <a href="https://instagram.com/YOUR_INSTAGRAM" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+  <a href="https://youtube.com/YOUR_YOUTUBE" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
+  </a>
+  <a href="https://twitter.com/YOUR_TWITTER" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
+  </a>
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://t.me/YOUR_TELEGRAM" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
+  </a>
+  <a href="https://gitlab.com/YOUR_GITLAB" target="_blank">
+    <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab">
+  </a>
+</div>
+
+---
+
+### Welcome to my GitHub Page! 👋
+
+I am **Muhammad Zeeshan Hassa**, a Computer Science student and developer passionate about programming and teaching. I have been programming for [your experience years] and worked with many technologies and tools.
+
+I also share programming tips and knowledge on [Instagram](https://instagram.com/YOUR_INSTAGRAM) and other platforms.
+
+Feel free to explore my repositories and connect with me through the links above!
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thezeeshanhassan&label=Profile%20views&color=0e75b6&style=flat" alt="thezeeshanhassan" /> </p>
 
