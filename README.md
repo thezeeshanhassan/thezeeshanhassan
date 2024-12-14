@@ -1,21 +1,15 @@
 <div align="center">
-  <a href="https://instagram.com/YOUR_INSTAGRAM" target="_blank">
+  <a href="https://instagram.com/thezeeshanhassan_" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
-  <a href="https://youtube.com/YOUR_YOUTUBE" target="_blank">
+  <a href="https://www.youtube.com/@MrZeeVibes" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
   </a>
-  <a href="https://twitter.com/YOUR_TWITTER" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
-  </a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
+  <a href="https://linkedin.com/in/thezeeshanhassan" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://t.me/YOUR_TELEGRAM" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
-  </a>
-  <a href="https://gitlab.com/YOUR_GITLAB" target="_blank">
-    <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab">
+ <a href="https://leetcode.com/thezeeshanhassan" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FE7A16?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode">
   </a>
 </div>
 
@@ -25,7 +19,7 @@
 
 I am **Muhammad Zeeshan Hassa**, a Computer Science student and developer passionate about programming and teaching. I have been programming for [your experience years] and worked with many technologies and tools.
 
-I also share programming tips and knowledge on [Instagram](https://instagram.com/YOUR_INSTAGRAM) and other platforms.
+I also share programming tips and knowledge on [Instagram](https://instagram.com/thezeeshanhassan_) and other platforms.
 
 Feel free to explore my repositories and connect with me through the links above!
 
