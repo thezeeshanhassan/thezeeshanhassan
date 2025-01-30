@@ -8,7 +8,7 @@
   <a href="https://www.hackerrank.com/profile/thezeeshanhassan" target="_blank">
   <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank">
 </a>
-   <a href="https://www.youtube.com/@MrZeeVibes" target="_blank">
+   <a href="https://www.youtube.com/@ZeeshanHassanKhawaja" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
   </a>
   <a href="https://instagram.com/thezeeshanhassan_" target="_blank">
