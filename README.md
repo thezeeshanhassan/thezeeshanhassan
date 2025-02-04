@@ -20,7 +20,7 @@
 
 ### Welcome to my GitHub Page! 👋
 
-I am **Muhammad Zeeshan Hassan**, a Computer Science student and developer passionate about programming and teaching. I have been programming for [your experience years] and worked with many technologies and tools.
+I am **Muhammad Zeeshan Hassan**, a Computer Science student and developer passionate about programming and teaching. I have been programming for 3 years and worked with many technologies and tools.
 
 I also share programming tips and knowledge on [Instagram](https://instagram.com/thezeeshanhassan_) and other platforms.
 
