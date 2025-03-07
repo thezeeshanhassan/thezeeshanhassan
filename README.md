@@ -31,10 +31,7 @@ Feel free to explore my repositories and connect with me through the links above
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thezeeshanhassan" alt="thezeeshanhassan" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-| ![C#](https://img.icons8.com/color/48/000000/c-sharp-logo.png) | ![Python](https://img.icons8.com/color/48/000000/python.png) | ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) | ![C++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png) | ![Django](https://img.icons8.com/color/48/000000/django.png) | ![GitHub](https://img.icons8.com/color/48/000000/github.png) | ![REST API](https://img.icons8.com/color/48/000000/api.png) | ![Docker](https://img.icons8.com/color/48/000000/docker.png) | ![Nginx](https://img.icons8.com/color/48/000000/nginx.png) |
-|--------|--------|--------|--------|--------|--------|--------|--------|--------|
-| ![Git](https://img.icons8.com/color/48/000000/git.png) | ![GitLab](https://img.icons8.com/color/48/000000/gitlab.png) | ![HTML](https://img.icons8.com/color/48/000000/html-5.png) | ![CSS](https://img.icons8.com/color/48/000000/css3.png) | ![Bootstrap](https://img.icons8.com/color/48/000000/bootstrap.png) | ![Tailwind CSS](https://img.icons8.com/color/48/000000/tailwindcss.png) | ![jQuery](https://img.icons8.com/color/48/000000/jquery.png) | ![PostgreSQL](https://img.icons8.com/color/48/000000/postgreesql.png) | ![ASP.NET](https://img.icons8.com/color/48/000000/asp.png) |
-| ![Redis](https://img.icons8.com/color/48/000000/redis.png) | ![Postman](https://img.icons8.com/color/48/000000/postman-api.png) | ![Linux](https://img.icons8.com/color/48/000000/linux.png) | ![Dart](https://img.icons8.com/color/48/000000/dart.png) | ![RabbitMQ](https://img.icons8.com/color/48/000000/rabbitmq.png) | ![Sentry](https://img.icons8.com/color/48/000000/sentry.png) | ![Celery](https://img.icons8.com/color/48/000000/celery.png) | ![Docusaurus](https://img.icons8.com/color/48/000000/docusaurus.png) | ![Pytest](https://img.icons8.com/color/48/000000/pytest.png) |
+My favorite tools and technologies ⚙️
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
