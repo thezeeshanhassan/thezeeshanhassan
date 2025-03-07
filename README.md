@@ -31,7 +31,12 @@ Feel free to explore my repositories and connect with me through the links above
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thezeeshanhassan" alt="thezeeshanhassan" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-### Welcome to my GitHub Page!
+<h2 align="left"> My Favourite Tools and Technologies: </h2>
+
+|   <img src="[https://komarev.com/ghpvc/?username=thezeeshanhassan&label=Profile%20views&color=0e75b6&style=flat](https://camo.githubusercontent.com/65598dcd8613baf19c902a37fb42c6f41af5787a9e3cb6a1a8278b6f012360d6/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6373686172702d69636f6e2e737667)" alt="thezeeshanhassan" />     | Python   | JSA     | C++     | Django   | Github   | Rest API  | Docker   | Nginx    |
+|---------|----------|---------|---------|----------|----------|-----------|----------|----------|
+| Git     | GitLab   | HTML    | CSS     | Bootstrap| Tailwind | JQuery    | PostgreSQL | ASP.NET |
+| Redis   | Postman  | Linux   | Dart    | RabbitMQ | Sentry   | Celery    | Docusaurus | Pytest  |
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
