@@ -78,9 +78,6 @@ Feel free to explore my repositories and connect with me through the links above
 </div>
 
 
-
-
-
 <h2 align="left">📊 GitHub Stats</h2>
 
 <div align="center">
@@ -91,19 +88,6 @@ Feel free to explore my repositories and connect with me through the links above
 <h2 align="left">📈 Activity Graph</h2>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=thezeeshanhassan&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-<h2 align="left">👁️ Profile Views</h2>
-
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=thezeeshanhassan&label=Profile+Views&color=blueviolet&style=flat" alt="thezeeshanhassan" /> 
-</p>
-
-<h2 align="left">⏳ Wakatime Stats</h2>
-
-<!-- Add your Wakatime stats (get your embed code from wakatime.com) -->
-[![wakatime](https://wakatime.com/badge/user/{your-wakatime-user-id}.svg)](https://wakatime.com/@thezeeshanhassan)
-
-
 
 
 
