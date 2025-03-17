@@ -1,3 +1,15 @@
+
+
+---
+
+### Welcome to my GitHub Page! 👋
+
+I am **Muhammad Zeeshan Hassan**, a Computer Science student and developer passionate about programming and teaching. I have been programming for 3 years and worked with many technologies and tools.
+
+I also share programming tips and knowledge on [Instagram](https://instagram.com/thezeeshanhassan_) and other platforms.
+
+Feel free to explore my repositories and connect with me through the links above!
+
 <div align="center">
   <a href="https://linkedin.com/in/thezeeshanhassan" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
@@ -16,16 +28,6 @@
   </a>
 </div>
 
----
-
-### Welcome to my GitHub Page! 👋
-
-I am **Muhammad Zeeshan Hassan**, a Computer Science student and developer passionate about programming and teaching. I have been programming for 3 years and worked with many technologies and tools.
-
-I also share programming tips and knowledge on [Instagram](https://instagram.com/thezeeshanhassan_) and other platforms.
-
-Feel free to explore my repositories and connect with me through the links above!
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thezeeshanhassan&label=Profile%20views&color=0e75b6&style=flat" alt="thezeeshanhassan" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thezeeshanhassan" alt="thezeeshanhassan" /></a> </p>
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
@@ -42,9 +44,9 @@ Feel free to explore my repositories and connect with me through the links above
       <td><img src="https://skillicons.dev/icons?i=cs" alt="Cs" width="60" /></td>
       <td><img src="https://skillicons.dev/icons?i=react" alt="React" width="60" /></td>
       <td><img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="60" /></td>
-      <td><img src="https://skillicons.dev/icons?i=express" alt="HTML" width="60" /></td>
+      <td><img src="https://skillicons.dev/icons?i=express" alt="express" width="60" /></td>
       <td><img src="https://skillicons.dev/icons?i=css" alt="CSS" width="60" /></td>
-      <td><img src="https://skillicons.dev/icons?i=tailwind" alt="Java" width="60" /></td>
+      <td><img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="60" /></td>
     </tr>
     <tr>
       <td><img src="https://skillicons.dev/icons?i=aws" alt="AWS" width="60" /></td>
