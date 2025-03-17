@@ -84,10 +84,4 @@ Feel free to explore my repositories and connect with me through the links above
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thezeeshanhassan&layout=compact&langs_count=8&theme=vision-friendly-dark"/>
 </div>
 <h2 align="left">📈 Activity Graph</h2>
-[![Zeeshan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=thezeeshanhassan&theme=github&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-<h2 align="left">👁️ Profile Views</h2>
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=thezeeshanhassan&label=Profile+Views&color=blueviolet&style=flat" alt="thezeeshanhassan" /> 
-</p>
-<h2 align="left">⏳ Wakatime Stats</h2>
-[![Zeeshan's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=thezeeshanhassan&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=thezeeshanhassan&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
