@@ -27,15 +27,11 @@ I also share programming tips and knowledge on [Instagram](https://instagram.com
 Feel free to explore my repositories and connect with me through the links above!
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thezeeshanhassan&label=Profile%20views&color=0e75b6&style=flat" alt="thezeeshanhassan" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thezeeshanhassan" alt="thezeeshanhassan" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
+
 <h2 align="left"> My Favourite Tools and Technologies: </h2>
-
-[![My Skills](https://skillicons.dev/icons?i=ts,cpp,js,python,html,css&perline=6)](https://skillicons.dev)
-
 <div align="center">
   <table>
     <tr>
@@ -77,7 +73,7 @@ Feel free to explore my repositories and connect with me through the links above
   </table>
 </div>
 
-<h3 align="left">Connect with me:</h3>
+<h2 align="left"> Connect with me: </h2>
 <p align="left">
   <a href="https://linkedin.com/in/thezeeshanhassan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thezeeshanhassan" height="30" width="40" /></a>
   <a href="https://fb.com/thezeeshanhassan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="thezeeshanhassan" height="30" width="40" /></a>
