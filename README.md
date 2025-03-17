@@ -39,12 +39,12 @@ Feel free to explore my repositories and connect with me through the links above
       <td><img src="https://skillicons.dev/icons?i=cpp" alt="C++" width="60" /></td>
       <td><img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="60" /></td>
       <td><img src="https://skillicons.dev/icons?i=python" alt="Python" width="60" /></td>
-      <td><img src="https://skillicons.dev/icons?i=csharp" alt="C#" width="60" /></td>
-      <td><img src="https://skillicons.dev/icons?i=html" alt="HTML" width="60" /></td>
-      <td><img src="https://skillicons.dev/icons?i=css" alt="CSS" width="60" /></td>
-      <td><img src="https://skillicons.dev/icons?i=java" alt="Java" width="60" /></td>
+      <td><img src="https://skillicons.dev/icons?i=cs" alt="Cs" width="60" /></td>
       <td><img src="https://skillicons.dev/icons?i=react" alt="React" width="60" /></td>
       <td><img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="60" /></td>
+      <td><img src="https://skillicons.dev/icons?i=express" alt="HTML" width="60" /></td>
+      <td><img src="https://skillicons.dev/icons?i=css" alt="CSS" width="60" /></td>
+      <td><img src="https://skillicons.dev/icons?i=tailwind" alt="Java" width="60" /></td>
     </tr>
     <tr>
       <td><img src="https://skillicons.dev/icons?i=aws" alt="AWS" width="60" /></td>
