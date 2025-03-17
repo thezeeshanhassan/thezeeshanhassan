@@ -88,3 +88,7 @@ Feel free to explore my repositories and connect with me through the links above
 <h2 align="left">📈 Activity Graph</h2>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=thezeeshanhassan&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<h2 align="left">📊 Wakatime Stats Stats</h2>
+
+[![Zeeshan's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=thezeeshanhassan&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
