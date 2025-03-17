@@ -1,7 +1,4 @@
 
-
----
-
 ### Welcome to my GitHub Page! 👋
 
 I am **Muhammad Zeeshan Hassan**, a Computer Science student and developer passionate about programming and teaching. I have been programming for 3 years and worked with many technologies and tools.
@@ -9,6 +6,8 @@ I am **Muhammad Zeeshan Hassan**, a Computer Science student and developer passi
 I also share programming tips and knowledge on [Instagram](https://instagram.com/thezeeshanhassan_) and other platforms.
 
 Feel free to explore my repositories and connect with me through the links above!
+
+--
 
 <div align="center">
   <a href="https://linkedin.com/in/thezeeshanhassan" target="_blank">
@@ -44,19 +43,19 @@ Feel free to explore my repositories and connect with me through the links above
       <td><img src="https://skillicons.dev/icons?i=cs" alt="Cs" width="60" /></td>
       <td><img src="https://skillicons.dev/icons?i=react" alt="React" width="60" /></td>
       <td><img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="60" /></td>
-      <td><img src="https://skillicons.dev/icons?i=express" alt="express" width="60" /></td>
-      <td><img src="https://skillicons.dev/icons?i=css" alt="CSS" width="60" /></td>
+      <td><img src="https://skillicons.dev/icons?i=express" alt="Express" width="60" /></td>
+      <td><img src="https://skillicons.dev/icons?i=prisma" alt="Prisma" width="60" /></td>
       <td><img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="60" /></td>
     </tr>
     <tr>
-      <td><img src="https://skillicons.dev/icons?i=sql" alt="sql" width="60" /></td>
+      <td><img src="https://skillicons.dev/icons?i=mysql" alt="sql" width="60" /></td>
        <td><img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="60" /></td>
       <td><img src="https://skillicons.dev/icons?i=postgresql" alt="PostgreSQL" width="60" /></td>
       <td><img src="https://skillicons.dev/icons?i=git" alt="Git" width="60" /></td>
       <td><img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="60" /></td>
-      <td><img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="60" /></td>
-      <td><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="60" /></td>
-      <td><img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" width="60" /></td>
+      <td><img src="https://skillicons.dev/icons?i=html" alt="HTML" width="60" /></td>
+      <td><img src="https://skillicons.dev/icons?i=boostrap" alt="Boostrap" width="60" /></td>
+      <td><img src="https://skillicons.dev/icons?i=css" alt="CSS" width="60" /></td>
       <td><img src="https://skillicons.dev/icons?i=redis" alt="Redis" width="60" /></td>
       <td><img src="https://skillicons.dev/icons?i=flutter" alt="Flutter" width="60" /></td>
     </tr>
