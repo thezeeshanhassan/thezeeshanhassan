@@ -49,13 +49,13 @@ Feel free to explore my repositories and connect with me through the links above
       <td><img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="60" /></td>
     </tr>
     <tr>
-      <td><img src="https://skillicons.dev/icons?i=aws" alt="AWS" width="60" /></td>
-      <td><img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="60" /></td>
+      <td><img src="https://skillicons.dev/icons?i=sql" alt="sql" width="60" /></td>
+       <td><img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="60" /></td>
+      <td><img src="https://skillicons.dev/icons?i=postgresql" alt="PostgreSQL" width="60" /></td>
       <td><img src="https://skillicons.dev/icons?i=git" alt="Git" width="60" /></td>
       <td><img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="60" /></td>
       <td><img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="60" /></td>
       <td><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="60" /></td>
-      <td><img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="60" /></td>
       <td><img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" width="60" /></td>
       <td><img src="https://skillicons.dev/icons?i=redis" alt="Redis" width="60" /></td>
       <td><img src="https://skillicons.dev/icons?i=flutter" alt="Flutter" width="60" /></td>
