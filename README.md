@@ -2,12 +2,8 @@
 ### Welcome to my GitHub Page! 👋
 
 I am **Muhammad Zeeshan Hassan**, a Computer Science student and developer passionate about programming and teaching. I have been programming for 3 years and worked with many technologies and tools.
-
 I also share programming tips and knowledge on [Instagram](https://instagram.com/thezeeshanhassan_) and other platforms.
-
 Feel free to explore my repositories and connect with me through the links above!
-
---
 
 <div align="center">
   <a href="https://linkedin.com/in/thezeeshanhassan" target="_blank">
@@ -24,6 +20,9 @@ Feel free to explore my repositories and connect with me through the links above
   </a>
   <a href="https://instagram.com/thezeeshanhassan_" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+  <a href="https://facebook.com/thezeeshanhassan" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-E4405F?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
   </a>
 </div>
 
@@ -74,15 +73,6 @@ Feel free to explore my repositories and connect with me through the links above
     </tr>
   </table>
 </div>
-
-<h2 align="left"> Connect with me: </h2>
-<p align="left">
-  <a href="https://linkedin.com/in/thezeeshanhassan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thezeeshanhassan" height="30" width="40" /></a>
-  <a href="https://fb.com/thezeeshanhassan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="thezeeshanhassan" height="30" width="40" /></a>
-  <a href="https://instagram.com/thezeeshanhassan_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thezeeshanhassan_" height="30" width="40" /></a>
-  <a href="https://www.hackerrank.com/thezeeshanhassan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="thezeeshanhassan" height="30" width="40" /></a>
-  <a href="https://www.leetcode.com/thezeeshanhassan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="thezeeshanhassan" height="30" width="40" /></a>
-</p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thezeeshanhassan&show_icons=true&locale=en&layout=compact" alt="thezeeshanhassan" /></p>
 
