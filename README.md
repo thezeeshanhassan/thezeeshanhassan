@@ -33,6 +33,7 @@ Feel free to explore my repositories and connect with me through the links above
 
 
 <h2 align="left"> My Favourite Tools and Technologies: </h2>
+
 <div align="center">
   <table>
     <tr>
@@ -51,25 +52,25 @@ Feel free to explore my repositories and connect with me through the links above
       <td><img src="https://skillicons.dev/icons?i=mysql" alt="sql" width="60" /></td>
        <td><img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="60" /></td>
       <td><img src="https://skillicons.dev/icons?i=postgresql" alt="PostgreSQL" width="60" /></td>
+      <td><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/rest.png" alt="Restful" width="60" /></td>
+       <td><img src="https://skillicons.dev/icons?i=dotnet" alt=".Net" width="60" /></td>
+       <td><img src="https://skillicons.dev/icons?i=androidstudio" alt="Android Studio" width="60" /></td>
+      <td><img src="https://skillicons.dev/icons?i=anaconda" alt="Anaconda" width="60" /></td>
+      <td><img src="https://skillicons.dev/icons?i=npm" alt="NPM" width="60" /></td>
       <td><img src="https://skillicons.dev/icons?i=git" alt="Git" width="60" /></td>
       <td><img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="60" /></td>
-      <td><img src="https://skillicons.dev/icons?i=html" alt="HTML" width="60" /></td>
-      <td><img src="https://skillicons.dev/icons?i=boostrap" alt="Boostrap" width="60" /></td>
-      <td><img src="https://skillicons.dev/icons?i=css" alt="CSS" width="60" /></td>
-      <td><img src="https://skillicons.dev/icons?i=redis" alt="Redis" width="60" /></td>
-      <td><img src="https://skillicons.dev/icons?i=flutter" alt="Flutter" width="60" /></td>
     </tr>
     <tr>
-      <td><img src="https://skillicons.dev/icons?i=angular" alt="Angular" width="60" /></td>
-      <td><img src="https://skillicons.dev/icons?i=vue" alt="Vue.js" width="60" /></td>
-      <td><img src="https://skillicons.dev/icons?i=bash" alt="Bash" width="60" /></td>
-      <td><img src="https://skillicons.dev/icons?i=dotnet" alt=".NET" width="60" /></td>
-      <td><img src="https://skillicons.dev/icons?i=php" alt="PHP" width="60" /></td>
-      <td><img src="https://skillicons.dev/icons?i=ruby" alt="Ruby" width="60" /></td>
-      <td><img src="https://skillicons.dev/icons?i=rust" alt="Rust" width="60" /></td>
-      <td><img src="https://skillicons.dev/icons?i=swift" alt="Swift" width="60" /></td>
-      <td><img src="https://skillicons.dev/icons?i=kotlin" alt="Kotlin" width="60" /></td>
-      <td><img src="https://skillicons.dev/icons?i=go" alt="Go" width="60" /></td>
+      <td><img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" width="60" /></td>
+     <td><img src="https://skillicons.dev/icons?i=html" alt="HTML" width="60" /></td>
+      <td><img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" width="60" /></td>
+      <td><img src="https://skillicons.dev/icons?i=css" alt="CSS" width="60" /></td>
+      <td><img src="https://skillicons.dev/icons?i=figma" alt="Figma" width="60" /></td>
+      <td><img src="https://skillicons.dev/icons?i=ai" alt="AI" width="60" /></td>
+      <td><img src="https://skillicons.dev/icons?i=postman" alt="Postman" width="60" /></td>
+      <td><img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="60" /></td>
+      <td><img src="https://skillicons.dev/icons?i=windows" alt="Windows" width="60" /></td>
+      <td><img src="https://skillicons.dev/icons?i=java" alt="Java" width="60" /></td>
     </tr>
   </table>
 </div>
