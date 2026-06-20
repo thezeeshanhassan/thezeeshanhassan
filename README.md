@@ -16,7 +16,8 @@
 <a href="https://zeeshanhassan.dev"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
 <a href="https://www.upwork.com/freelancers/thezeeshanhassan"><img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork" /></a>
 <a href="https://leetcode.com/thezeeshanhassan"><img src="https://img.shields.io/badge/LeetCode-FE7A16?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" /></a>
-
+<a href="https://www.youtube.com/@ZeeshanHassanKhawaja"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
+<a href="https://www.hackerrank.com/profile/thezeeshanhassan"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" /></a>
 
 </div>
 
@@ -26,7 +27,7 @@
 
 I'm a **Full-Stack Software Engineer** with **5+ years of experience** building scalable SaaS platforms, AI-integrated products, and cloud-native applications — working with startups and funded teams across the US, UK, EU, and APAC.
 
-- 🔭 Currently building **[EverythingCloud](https://everythingcloud.com)** — a FinOps SaaS platform with multi-cloud cost intelligence (AWS + Azure + OpenAI)
+- 🔭 Currently building **[EverythingCloud](https://everythingcloud.com)** - a FinOps SaaS platform with multi-cloud cost intelligence (AWS + Azure + OpenAI)
 - 🚀 Architecting **DevMind** — a browser-first AI coding IDE targeting teams in emerging markets
 - 🤖 Deep in AI integration: Claude API, OpenAI, OpenRouter, LangChain, vector DBs
 - 🛠️ Active on **Upwork** since 2021 with a 100% Job Success Score, targeting SaaS & AI clients
@@ -103,12 +104,14 @@ I'm a **Full-Stack Software Engineer** with **5+ years of experience** building 
 
 | Project | Stack | Description |
 |:--|:--|:--|
-| **[EverythingCloud](https://everythingcloud.com)** | React · Django · AWS · Azure · OpenAI | FinOps SaaS — multi-cloud cost intelligence, VM right-sizing, savings recommendations |
-| **[LK Case Management](https://github.com/thezeeshanhassan)** | Next.js · Supabase · PostgreSQL | Multi-tenant legal case mgmt with RBAC, built for Advanced Legal Technologies LLC |
-| **[FreeSites](https://github.com/thezeeshanhassan)** | Next.js · Claude API · Stripe · Netlify | AI-powered website generator — describe your site, get it deployed |
-| **[BridgeX](https://github.com/thezeeshanhassan)** | Node.js · MT5 API · Binance API | Automated MT5-to-crypto trading bridge with real-time signal execution |
-| **[BookMyBanquets](https://github.com/thezeeshanhassan)** | React · Node.js · Express · PostgreSQL | Two-sided venue booking marketplace — listings, reservations, payments |
-| **[Smart Qarza Manager](https://github.com/thezeeshanhassan)** | React Native · NestJS · Supabase · Firebase | Informal loan tracker with real-time notifications and repayment schedules |
+| **[EverythingCloud](https://everythingcloud.com)** | React · Django · AWS · Azure · OpenAI | FinOps SaaS - multi-cloud cost intelligence, VM right-sizing, savings recommendations |
+| **[Chatac AI](https://chatac.ai)** | React · Node.js · OpenAI · WebSockets | AI-powered chat platform with real-time streaming and multi-model support |
+| **[SolaX - SOLA Afghanistan](https://www.sola-afghanistan.org)** | Next.js · Node.js · PostgreSQL | EdTech platform for SOLA School of Leadership Afghanistan — student management, curriculum, and learning tools |
+| **[LK Case Management]** | Next.js · Supabase · PostgreSQL | Multi-tenant legal case mgmt with RBAC, built for Advanced Legal Technologies LLC |
+| **[FreeSites]** | Next.js · Claude API · Stripe · Netlify | AI-powered website generator — describe your site, get it deployed |
+| **[BridgeX]** | Node.js · MT5 API · Binance API | Automated MT5-to-crypto trading bridge with real-time signal execution |
+| **[BookMyBanquets]** | React · Node.js · Express · PostgreSQL | Two-sided venue booking marketplace — listings, reservations, payments |
+| **[Smart Qarza Manager]** | React Native · NestJS · Supabase · Firebase | Informal loan tracker with real-time notifications and repayment schedules |
 
 ---
 
