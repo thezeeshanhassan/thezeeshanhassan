@@ -23,7 +23,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Full-Stack Software Engineer** with **5+ years of experience** building scalable SaaS platforms, AI-integrated products, and cloud-native applications — working with startups and funded teams across the US, UK, EU, and APAC.
+I'm a **Full-Stack Software Engineer** with **4+ years of experience** building scalable SaaS platforms, AI-integrated products, and cloud-native applications — working with startups and funded teams across the US, UK, EU, and APAC.
 
 - 🔭 Currently building **[EverythingCloud](https://everythingcloud.com)** - a FinOps SaaS platform with multi-cloud cost intelligence (AWS + Azure + OpenAI)
 - 🚀 Architecting **DevMind** — a browser-first AI coding IDE targeting teams in emerging markets
