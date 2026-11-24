@@ -2,144 +2,87 @@
 
 # Muhammad Zeeshan Hassan
 
-### Full-Stack Software Engineer · SaaS Architect · AI Integration Specialist
+### Full-Stack Engineer · Production AI for SaaS
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=6E40C9&center=true&vCenter=true&width=600&lines=5%2B+Years+Building+Production+SaaS+Systems;React+%7C+Next.js+%7C+Node.js+%7C+NestJS;Django+%7C+FastAPI+%7C+PostgreSQL+%7C+Supabase;AWS+%7C+Docker+%7C+Kubernetes+%7C+CI%2FCD)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=6E40C9&center=true&vCenter=true&width=600&lines=AI+features+for+SaaS+products;LLM+integrations+%C2%B7+AI+agents+%C2%B7+MCP+servers;TypeScript+%C2%B7+Next.js+%C2%B7+NestJS+%C2%B7+Django+%C2%B7+FastAPI;3%2B+years+building+production+SaaS)](https://github.com/DenverCoder1/readme-typing-svg)
 
-</div>
-
----
-
-<div align="center">
-
+<a href="mailto:thezeeshanhassan@gmail.com"><img src="https://img.shields.io/badge/Email-6E40C9?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 <a href="https://linkedin.com/in/thezeeshanhassan"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://zeeshanhassan.dev"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-<a href="https://www.upwork.com/freelancers/thezeeshanhassan"><img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork" /></a>
+<a href="https://www.upwork.com/freelancers/thezeeshanhassan"><img src="https://img.shields.io/badge/Upwork-100%25%20Job%20Success-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork, 100% Job Success" /></a>
 <a href="https://leetcode.com/thezeeshanhassan"><img src="https://img.shields.io/badge/LeetCode-FE7A16?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" /></a>
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## About
 
-I'm a **Full-Stack Software Engineer** with **4+ years of experience** building scalable SaaS platforms, AI-integrated products, and cloud-native applications — working with startups and funded teams across the US, UK, EU, and APAC.
+I build SaaS products end to end and add AI features to them that hold up in production. Most of my work is in TypeScript and Python: React and Next.js on the frontend, NestJS, Django or FastAPI on the backend, and PostgreSQL underneath.
 
-- 🔭 Currently building **[EverythingCloud](https://everythingcloud.com)** - a FinOps SaaS platform with multi-cloud cost intelligence (AWS + Azure + OpenAI)
-- 🚀 Architecting **DevMind** — a browser-first AI coding IDE targeting teams in emerging markets
-- 🤖 Deep in AI integration: Claude API, OpenAI, OpenRouter, LangChain, vector DBs
-- 🛠️ Active on **Upwork** since 2021 with a 100% Job Success Score, targeting SaaS & AI clients
-- 📍 Based in **Lahore, Pakistan** · Remote-first · Available across time zones
+With AI features, I focus on reliability. A model's output should be checked before a user sees it. My paper [VAFA](https://zenodo.org/records/23135452) looks at one version of this problem: verifying LLM-generated queries over multi-cloud billing data.
 
----
+**Right now**
 
-## 🛠️ Tech Stack
+- Working on [EverythingCloud](https://everythingcloud.com), a cloud cost platform for AWS and Azure, across its Django backend and React frontend.
+- Building DevMind, a browser-based AI coding IDE that runs on OpenRouter.
 
-### Languages
-<div>
-  <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" width="48" />
-  <img src="https://skillicons.dev/icons?i=python" alt="Python" width="48" />
-  <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="48" />
-  <img src="https://skillicons.dev/icons?i=cpp" alt="C++" width="48" />
-  <img src="https://skillicons.dev/icons?i=java" alt="Java" width="48" />
-  <img src="https://skillicons.dev/icons?i=cs" alt="C#" width="48" />
-</div>
+Based in Lahore, Pakistan, and working remotely.
 
-### Frontend
-<div>
-  <img src="https://skillicons.dev/icons?i=react" alt="React" width="48" />
-  <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" width="48" />
-  <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" width="48" />
-  <img src="https://skillicons.dev/icons?i=html" alt="HTML5" width="48" />
-  <img src="https://skillicons.dev/icons?i=css" alt="CSS3" width="48" />
-  <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" width="48" />
-  <img src="https://skillicons.dev/icons?i=figma" alt="Figma" width="48" />
-</div>
+## What I work on
 
-### Backend & APIs
-<div>
-  <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="48" />
-  <img src="https://skillicons.dev/icons?i=nestjs" alt="NestJS" width="48" />
-  <img src="https://skillicons.dev/icons?i=express" alt="Express" width="48" />
-  <img src="https://skillicons.dev/icons?i=django" alt="Django" width="48" />
-  <img src="https://skillicons.dev/icons?i=fastapi" alt="FastAPI" width="48" />
-  <img src="https://skillicons.dev/icons?i=graphql" alt="GraphQL" width="48" />
-</div>
+- Adding AI to existing SaaS products with OpenAI, Claude and OpenRouter, including multi-model setups
+- AI agents, tool calling and MCP servers
+- Full-stack SaaS builds: auth and MFA, multi-tenancy with role-based access, Stripe payments, background jobs
+- Third-party API integrations and automation workflows
+- Testing with Cypress on the frontend and Postman on the backend
 
-### Databases & Storage
-<div>
-  <img src="https://skillicons.dev/icons?i=postgresql" alt="PostgreSQL" width="48" />
-  <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="48" />
-  <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="48" />
-  <img src="https://skillicons.dev/icons?i=redis" alt="Redis" width="48" />
-  <img src="https://skillicons.dev/icons?i=supabase" alt="Supabase" width="48" />
-  <img src="https://skillicons.dev/icons?i=prisma" alt="Prisma" width="48" />
-</div>
+## Tech stack
 
-### Cloud, DevOps & Infrastructure
-<div>
-  <img src="https://skillicons.dev/icons?i=aws" alt="AWS" width="48" />
-  <img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="48" />
-  <img src="https://skillicons.dev/icons?i=kubernetes" alt="Kubernetes" width="48" />
-  <img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="48" />
-  <img src="https://skillicons.dev/icons?i=nginx" alt="Nginx" width="48" />
-  <img src="https://skillicons.dev/icons?i=githubactions" alt="GitHub Actions" width="48" />
-  <img src="https://skillicons.dev/icons?i=vercel" alt="Vercel" width="48" />
-</div>
+| | |
+|:--|:--|
+| **Frontend** | <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind" alt="TypeScript, JavaScript, React, Next.js, Tailwind CSS" /> |
+| **Backend** | <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,py,django,fastapi,graphql" alt="Node.js, NestJS, Express, Python, Django, FastAPI, GraphQL" /> |
+| **Data** | <img src="https://skillicons.dev/icons?i=postgres,redis,supabase,prisma,mongodb" alt="PostgreSQL, Redis, Supabase, Prisma, MongoDB" /> |
+| **Cloud & DevOps** | <img src="https://skillicons.dev/icons?i=aws,azure,docker,githubactions,linux,vercel" alt="AWS, Azure, Docker, GitHub Actions, Linux, Vercel" /> |
+| **Testing & tools** | <img src="https://skillicons.dev/icons?i=cypress,postman,git" alt="Cypress, Postman, Git" /> |
+| **AI** | OpenAI API · Claude API · OpenRouter · LangChain · vector databases · MCP servers |
+| **Also** | Celery · TimescaleDB |
 
-### Tools & Workflow
-<div>
-  <img src="https://skillicons.dev/icons?i=git" alt="Git" width="48" />
-  <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="48" />
-  <img src="https://skillicons.dev/icons?i=postman" alt="Postman" width="48" />
-  <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" width="48" />
-  <img src="https://skillicons.dev/icons?i=npm" alt="NPM" width="48" />
-</div>
+## AI work
 
----
-
-## 🚀 Featured Projects
-
-| Project | Stack | Description |
+| Project | Stack | What it is |
 |:--|:--|:--|
-| **[EverythingCloud](https://everythingcloud.com)** | React · Django · AWS · Azure · OpenAI | FinOps SaaS - multi-cloud cost intelligence, VM right-sizing, savings recommendations |
-| **[Chatac AI](https://chatac.ai)** | React · Node.js · OpenAI · WebSockets | AI-powered chat platform with real-time streaming and multi-model support |
-| **[SolaX - SOLA Afghanistan](https://www.sola-afghanistan.org)** | Next.js · Node.js · PostgreSQL | EdTech platform for SOLA School of Leadership Afghanistan — student management, curriculum, and learning tools |
-| **[LK Case Management]** | Next.js · Supabase · PostgreSQL | Multi-tenant legal case mgmt with RBAC, built for Advanced Legal Technologies LLC |
-| **[FreeSites]** | Next.js · Claude API · Stripe · Netlify | AI-powered website generator — describe your site, get it deployed |
-| **[BridgeX]** | Node.js · MT5 API · Binance API | Automated MT5-to-crypto trading bridge with real-time signal execution |
-| **[BookMyBanquets]** | React · Node.js · Express · PostgreSQL | Two-sided venue booking marketplace — listings, reservations, payments |
-| **[Smart Qarza Manager]** | React Native · NestJS · Supabase · Firebase | Informal loan tracker with real-time notifications and repayment schedules |
+| **FreeSites** | Next.js · Claude API · Stripe · Netlify | Turns a plain-English description into a deployable website, with Stripe payments and Netlify deploys. |
+| **[Chatac AI](https://chatac.ai)** | React · Node.js · OpenAI · WebSockets | AI chat platform with real-time streaming and support for multiple models. |
+| **DevMind** (in progress) | OpenRouter | Browser-based AI coding IDE. |
+| **[VAFA](https://zenodo.org/records/23135452)** (paper) | LLMs · text-to-SQL | A verification framework for natural-language queries over FOCUS-compliant multi-cloud billing data. |
 
----
+## SaaS products
 
-## 📊 GitHub Stats
+| Project | Stack | What it is |
+|:--|:--|:--|
+| **[EverythingCloud](https://everythingcloud.com)** | React · Django · Celery · AWS · Azure · OpenAI | Cloud cost platform. I've worked on the async cost sync pipeline, VM alternative recommendations built on Azure pricing and SKU APIs, a provider SDK for AWS and Azure, and MFA. |
+| **LK Case Management** | Python · PostgreSQL | Multi-tenant legal case management platform with role-based access control, built from scratch for Advanced Legal Technologies LLC. |
+| **Legal Konnect** | Next.js | Legal-tech product for Advanced Legal Technologies LLC. I built it from scratch, including the attorney workflows and UI. |
+| **[SolaX](https://www.sola-afghanistan.org)** | React · Ruby on Rails | Edtech platform for SOLA (School of Leadership, Afghanistan) that delivers digital education to Afghan girls over WhatsApp. Built at DevSinc. |
+| **BridgeX** | Node.js · MT5 API · Binance API | Automated MT5-to-crypto trading bridge with real-time signal execution. |
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thezeeshanhassan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thezeeshanhassan&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
-</div>
+Also built: **BookMyBanquets**, a venue booking marketplace with listings, reservations and payments, and **Smart Qarza Manager**, a loan management app with repayment schedules and real-time notifications.
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thezeeshanhassan&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-
----
-
-## 📈 Activity Graph
-
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=thezeeshanhassan&theme=tokyo-night&hide_border=true" alt="Zeeshan's GitHub Activity Graph" />
-</a>
-
----
+## GitHub activity
 
 <div align="center">
 
-**Open to SaaS, AI integration, and cloud-native contracts.**
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=thezeeshanhassan&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thezeeshanhassan&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top languages" />
 
-<a href="https://zeeshanhassan.dev">zeeshanhassan.dev</a> · <a href="https://linkedin.com/in/thezeeshanhassan">Book a call</a>
+<img src="https://streak-stats.demolab.com/?user=thezeeshanhassan&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 
-<img src="https://komarev.com/ghpvc/?username=thezeeshanhassan&label=Profile+Views&color=6E40C9&style=flat" alt="profile views" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=thezeeshanhassan&theme=tokyo-night&hide_border=true" alt="Contribution activity graph" />
 
 </div>
+
+## Get in touch
+
+Need AI features in a SaaS product, or a full-stack build from scratch? Email me at [thezeeshanhassan@gmail.com](mailto:thezeeshanhassan@gmail.com) or message me on [LinkedIn](https://linkedin.com/in/thezeeshanhassan). You can also hire me through [Upwork](https://www.upwork.com/freelancers/thezeeshanhassan).
